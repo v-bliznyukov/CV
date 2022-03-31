@@ -1,10 +1,10 @@
 # CV
 This branch contains some ML code examples:
 
-# RegressionModel_Banking.ipynb 
-* Explores linear and polynomial regression techniques + PCA
-* Implements Banking algorithm (Regression model whether to provide a loan or not)
+# SimpleWordCountScala (.scala, compiled .jar, configuration .sbt)
+* A word count program implemented on scala 
+* Used on HDFS and YARN Resource manager
 
-# CNN_DecisionTrees.ipynb 
-* Malware detection via decision trees [(dataset)](https://drive.google.com/file/d/1tKcAJiNODr0Wj9ARRXHXzmeOqhbceIHT/view)
-* Position of eye pupil in the picture via CNN
+# Movie Recommender system 
+* https://hackmd.io/r_luvluoRlWmDsAc98-RrQ?view
+* Contains an overview of algorithm, code snippets, results and discussion
