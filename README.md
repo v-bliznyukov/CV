@@ -1,5 +1,6 @@
 # CV
 Collection of files I believe are relevant for the CV
+All of the below scripts consider parallel execution of multiple clients (nodes)
 # MultisocketCalculator
 Client and server codes for a calculator that can handle multiple clients via UDP
 # TCP over UDP
@@ -10,3 +11,5 @@ A number guessing game implemented with TCP protocol and multithreading
 Implementation of a file system server using xmlrpc
 # Chord protocol implementation
 Implementation of distributed and dynamic filesystem using chord protocol
+# RAFT protocol
+Simple implementation of RAFT protocol (Leader election)
